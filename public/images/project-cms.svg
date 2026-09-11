@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<rect width="1600" height="1000" fill="#07130f" />
+<g opacity="0.92">
+<rect x="180" y="180" width="250" height="160" fill="#8b5cf6" fill-opacity="0.4" stroke="#8b5cf6" />
+<rect x="470" y="270" width="280" height="220" fill="#b6ff8a" fill-opacity="0.22" stroke="#b6ff8a" />
+<rect x="790" y="220" width="320" height="260" fill="#9dffef" fill-opacity="0.16" stroke="#9dffef" />
+<rect x="1140" y="320" width="260" height="170" fill="#eef7ee" fill-opacity="0.12" stroke="#eef7ee" />
+</g>
+<g fill="#eef7ee" font-family="Inter, Arial" font-size="28">
+<text x="210" y="260">CMS</text>
+<text x="500" y="360">Publishing</text>
+<text x="830" y="330">Content Graph</text>
+</g>
+<path d="M180 760 H1420" stroke="#b6ff8a" stroke-width="2" opacity="0.8" />
+</svg>

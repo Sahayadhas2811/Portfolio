@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<rect width="1600" height="1000" fill="#07130f" />
+<path d="M0 760 C260 620,420 700,580 660 C820 620,850 760,990 700 C1190 620,1240 690,1600 640 L1600 1000 L0 1000 Z" fill="#b6ff8a" fill-opacity="0.14" />
+<g opacity="0.88">
+<circle cx="310" cy="270" r="180" fill="none" stroke="#9dffef" stroke-width="2" />
+<circle cx="640" cy="520" r="120" fill="none" stroke="#b6ff8a" stroke-width="2" />
+<circle cx="1020" cy="340" r="110" fill="none" stroke="#8b5cf6" stroke-width="2" />
+<circle cx="1210" cy="580" r="150" fill="none" stroke="#eef7ee" stroke-width="2" />
+</g>
+<g fill="#eef7ee" font-size="32" font-family="Inter, Arial">
+<text x="250" y="270">Retail Intelligence</text>
+<text x="880" y="330">Growth Engines</text>
+</g>
+</svg>
