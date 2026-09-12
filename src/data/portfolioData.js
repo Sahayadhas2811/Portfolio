@@ -3,8 +3,10 @@ export const portfolioData = {
     name: 'Sahaya Christhu Dhas',
     title: 'MERN Stack & Full Stack Developer',
     location: 'Based in India',
-    email: 'hello@portfolio.dev',
-    resumeUrl: '#',
+    email: 'sahayadhas2811@gmail.com',
+    phone: '+91 9025370688',
+    rawPhone: '9025370688',
+    resumeUrl: '/Sahaya_Christhu_Dhas_Resume.pdf',
     photo: '/images/profile.png',
     intro: 'I craft secure, scalable and elegant software products across the full web stack — from frontend experience to APIs, data models and delivery workflows.',
   },
@@ -230,9 +232,34 @@ export const portfolioData = {
       language: 'TypeScript'
     }
   ],
+  achievements: [
+    {
+      id: 'ach-1',
+      title: 'Certificate of Achievement',
+      issuer: 'Prodapt & Verizon',
+      date: 'Sep 2025',
+      badge: 'Defect Reduction Excellence',
+      metric: 'Double → Single Digits',
+      image: '/images/ach-1.jpeg',
+      description: 'Awarded by Prodapt and Verizon for exceptional engineering impact: reduced production defects from double to single digits, actively supported cross-functional engineering teams, and significantly improved release quality across mission-critical telecom platforms.',
+      tags: ['Quality Engineering', 'Defect Resolution', 'Prodapt', 'Verizon', 'Platform Stability']
+    },
+    {
+      id: 'ach-2',
+      title: 'Rising Rookie Award of the Month',
+      issuer: 'Prodapt (Nominated by Karthik Kumar B)',
+      date: 'Aug 2025',
+      badge: 'Rising Rookie of the Month',
+      metric: '53 Critical Defects Resolved',
+      image: '/images/ach-2.jpeg',
+      description: 'Honored with the Rising Rookie Award for excelling in business-critical platforms including WFM, IOP, and ECHO. Demonstrated unparalleled dedication and analytical prowess by resolving 53 defects in PEDS and NSSEC, significantly enhancing application stability and functionality.',
+      tags: ['WFM', 'IOP', 'ECHO', 'PEDS', 'NSSEC', 'Analytical Problem Solving']
+    }
+  ],
   socials: {
     github: 'https://github.com/Sahayadhas2811',
-    linkedin: 'https://linkedin.com',
-    dribbble: 'https://dribbble.com'
+    linkedin: 'https://www.linkedin.com/in/sahayachristhudhas/',
+    phone: '+91 9025370688',
+    email: 'sahayadhas2811@gmail.com'
   }
 }
